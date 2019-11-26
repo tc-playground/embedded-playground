@@ -1,2 +1,3 @@
-# embedded-playground
+# Embedded Playground
+
 Playing with embedded devices.
