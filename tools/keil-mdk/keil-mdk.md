@@ -1,4 +1,4 @@
-# HowTo: Instal Keil MDK
+# Install Keil MDK
 
 ## Introduction
 
