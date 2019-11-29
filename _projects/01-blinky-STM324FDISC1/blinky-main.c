@@ -60,9 +60,16 @@ void spin(int n) {
 	clear();
 }
 
+void raise_hard_fault(void) {
+		// Create and invoke a function pointer using and invalid address
+		void (*jump_addr) (void) = 0x00000000;
+		jump_addr();
+}
+
 int main(void) {
 	LED_Initialize();
 	Buttons_Initialize();
+	// raise_hard_fault();
 	int n = 5;
 	while (1) {
 		uint32_t isPressed = Buttons_GetState();
