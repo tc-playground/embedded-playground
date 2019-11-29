@@ -12,5 +12,5 @@
 
         2. Enable `Download to Flash`.
 
-
+3. __Load__ - Clieck on `load` or `F8` to load the program.
 
