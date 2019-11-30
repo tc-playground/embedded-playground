@@ -50,5 +50,7 @@
 
 * [User Manual](https://www.st.com/resource/en/user_manual/dm00039084.pdf)
 
+* [Reference Manual](https://www.st.com/content/ccc/resource/technical/document/reference_manual/3d/6d/5a/66/b4/99/40/d4/DM00031020.pdf/files/DM00031020.pdf/jcr:content/translations/en.DM00031020.pdf)
+
 * [STM32F407VGTx - Keil](http://www.keil.com/dd2/stmicroelectronics/stm32f407vgtx)
 
