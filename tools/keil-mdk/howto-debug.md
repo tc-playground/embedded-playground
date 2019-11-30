@@ -12,15 +12,15 @@
 
 2. `Break Points` - Create, disable, delete, clear all; Step in/over/out.
 
-3. `Call Stack Window`.
+3. `Call Stack Window` - Show the callstack.
 
-4. `Dissasembly Window`.
+4. `Dissasembly Window` - Show the `assembler`.
 
-5. `Register windows`.
+5. `Register windows` - Show the `registers`.
 
-6. `Symbols Window`.
+6. `Symbols Window` - Show the `symbols`.
 
-7. `Memory Windows`.
+7. `Memory Windows` - Read/Write `memory` locations.
 
 8. `Watch Window` - Watch defined variables.
 
