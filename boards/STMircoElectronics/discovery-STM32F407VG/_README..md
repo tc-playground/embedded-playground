@@ -52,5 +52,7 @@
 
 * [Reference Manual](https://www.st.com/content/ccc/resource/technical/document/reference_manual/3d/6d/5a/66/b4/99/40/d4/DM00031020.pdf/files/DM00031020.pdf/jcr:content/translations/en.DM00031020.pdf)
 
+* [DMA Application Note](https://www.st.com/content/ccc/resource/technical/document/application_note/27/46/7c/ea/2d/91/40/a9/DM00046011.pdf/files/DM00046011.pdf/jcr:content/translations/en.DM00046011.pdf)
+
 * [STM32F407VGTx - Keil](http://www.keil.com/dd2/stmicroelectronics/stm32f407vgtx)
 
