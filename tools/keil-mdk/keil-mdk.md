@@ -2,7 +2,7 @@
 
 ## Introduction
 
-* `Keil` is a `microcontroller devlopment kit` target at the `ARM` based microcontrollers.
+* `Keil` is a `microcontroller development kit` target at the `ARM` based microcontrollers.
 
 * `Keil` is `windows only`.
 

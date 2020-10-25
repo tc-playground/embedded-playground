@@ -30,6 +30,13 @@
 
 * __OSX__ - No driver installation required.
 
+
+---
+
+## Usage
+
+1. Just connect the MCU device to a laptop using a `USB/MiniUSB` cable. 
+
 ---
 
 ## Resources

@@ -34,7 +34,7 @@
 
 4. __Configure Debugger__ by right clicking on `Target`, configuring the options, and, selecting the required debugger.
 
-    * e.g. For `ST board` select the `SD-LINK` debugger, and in `driver settings` configure it to `reflash` the target on download.
+    * e.g. For `ST board` select the `ST-LINK` debugger, and in `driver settings` configure it to `reflash` the target on download.
 
 5. __Flash Device__ - By clicking on `Download (F8)`. 
 

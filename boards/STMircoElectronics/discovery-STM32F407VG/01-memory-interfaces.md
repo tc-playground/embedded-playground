@@ -2,7 +2,7 @@
 
 ## Memory Types and Addressing
 
-1. Different type of memory are mapped into the same contiguous eaddress space,
+1. Different type of memory are mapped into the same contiguous address space,
 
 2. __FLash__ - MCU `Flash` memory address - `0x0800 0000` - `0x080F FFFF` (0x080FFFFF - 0x08000000 = 1048575 = 65535 bytes = 64k)
 
@@ -65,8 +65,6 @@
     * `Stack memory` is only consumed at runtime.
 
 > NB: The address of specific variables can be found using an IDE or debugger.
-
-
 
 
 ---

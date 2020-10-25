@@ -2,7 +2,7 @@
 
 ## Overview
 
-* `Keilv5` offer debugging funcitonality upto 32k.
+* `Keil v5` offer debugging functionality up to 32k.
 
 --
 

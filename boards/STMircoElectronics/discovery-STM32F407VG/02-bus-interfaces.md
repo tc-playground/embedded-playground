@@ -6,13 +6,13 @@
 
 * A `bus matrix` can be used to multiplex `primary` devices with `secondary` devices.
 
-* Operations can be trasmitted from one bus to another via a `bridge`.
+* Operations can be transmitted from one bus to another via a `bridge`.
 
-* Buses can operate at differnt clock-speeds to trade-off `energy consumption` vs `speed`.
+* Buses can operate at different clock-speeds to trade-off `energy consumption` vs `speed`.
 
 ---
 
-## ARM Cortext M32-4 180 MHz
+## ARM Cortex M32-4 180 MHz
 
 1. __ARM Cortex M32__ - has 3 `32 bit` address buses.
 
